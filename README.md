@@ -1,0 +1,3 @@
+# Log
+cd src
+make
