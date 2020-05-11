@@ -1,3 +1,3 @@
-# Log
+#Log
 cd src
-make
+make 
